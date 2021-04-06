@@ -1,0 +1,49 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+            "margin": "none",
+            "size": "full"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ยิ้มฉันยิ้มมากกว่าทุกครั้ง",
+            "margin": "100px",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "สุขที่ฉันตามหามาแสนนาน",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "อยู่ตรงนี้ แค่เพียงเข้าใจ อย่าไปยึด",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ถือมันและกอดไว้ ก็แค่ร่มเท่านั้น เท่านั้น",
+            "size": "sm"
+          }
+        ],
+        "position": "absolute"
+      }
+    ]
+  }
+}
